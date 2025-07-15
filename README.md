@@ -31,6 +31,7 @@ From this analysis, I observed that:
 
 This analysis helps uncover patterns that could support more personalized treatment planning or future research directions in mental health.
 
+# Future Enhancements
 
 Looking ahead, this project can be expanded in several ways to bring more business value and operational impact:
 
